@@ -1,6 +1,6 @@
-# 🛒 Fliokart - E-commerce Web App
+# 🛒 Amazi - E-commerce Web App
 
-Fliokart is a frontend e-commerce web application It allows users to browse products, manage a shopping cart, and simulate the buying experience. This project is a part of a learning journey to master web development.
+Amazi is a frontend e-commerce web application It allows users to browse products, manage a shopping cart, and simulate the buying experience. This project is a part of a learning journey to master web development.
 
 ---
 
