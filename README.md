@@ -26,5 +26,5 @@ Fliokart is a frontend e-commerce web application It allows users to browse prod
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/joinwithyogeshRK/fliokart.git
-cd fliokart
+git clone https://github.com/vishalpal1401/amazi.git
+ 
