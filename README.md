@@ -27,4 +27,5 @@ Amazi is a frontend e-commerce web application It allows users to browse product
 ### Clone the repository:
 ```bash
 git clone https://github.com/vishalpal1401/amazi.git
+cd amazi
  
